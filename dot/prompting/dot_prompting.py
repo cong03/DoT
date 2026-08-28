@@ -8,7 +8,7 @@ from dataclasses import dataclass, field
 
 from ..llm_engine import LLMEngine, GenerationConfig
 from ..data.dataset import DoTSample, format_choices_for_prompt
-from ...prompts.dot_prompts import (
+from ..prompts import (
     HYPOTHESIS_GENERATION,
     ADVERSARIAL_DEBATE,
     EVIDENTIAL_ADJUDICATION,
