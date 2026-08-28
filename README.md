@@ -160,8 +160,6 @@ DoT/
 │   │   └── dataset.py             # Data loading utilities
 │   ├── evaluation/
 │   │   └── evaluator.py           # Evaluation metrics
-│   ├── baselines/
-│   │   └── baselines.py           # Baseline implementations
 │   └── llm_engine.py              # Unified LLM inference engine
 ├── prompts/
 │   └── dot_prompts.py             # Prompt templates (Figures 4-6)
