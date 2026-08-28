@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from ..llm_engine import LLMEngine, GenerationConfig
 from ..data.dataset import DoTSample, format_choices_for_prompt
 from ..prompting.dot_prompting import DoTOutput, Hypothesis, DebateRecord, AdjudicationResult
-from ...prompts.dot_prompts import DOT_TUNING_INFERENCE
+from ..prompts import DOT_TUNING_INFERENCE
 
 
 class DoTTuning:
