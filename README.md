@@ -1,6 +1,6 @@
 # Debate-of-Thoughts: Resolving Knowledge Conflicts in LLMs Through Internal Deliberation
 
-Official implementation of the ACL 2025 paper: **"Debate-of-Thoughts: Resolving Knowledge Conflicts in LLMs Through Internal Deliberation"**
+Official implementation of the ACL 2026 paper: **"Debate-of-Thoughts: Resolving Knowledge Conflicts in LLMs Through Internal Deliberation"**
 
 ## Overview
 
@@ -193,11 +193,12 @@ DoT/
 ## Citation
 
 ```bibtex
-@inproceedings{li2025debate,
+@inproceedings{li2026debate,
   title={Debate-of-Thoughts: Resolving Knowledge Conflicts in LLMs Through Internal Deliberation},
   author={Li, Guocong and Hu, Qirui and Wang, Ping and Zhang, Guofeng and Wu, Jian and Xu, Hongxia},
-  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
-  year={2025}
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={35674--35696},
+  year={2026}
 }
 ```
 
