@@ -137,13 +137,6 @@ python run_evaluation.py \
     --output_dir ./results
 ```
 
-## Supported Models
-
-- Llama-3.1-8B-Instruct
-- Qwen3-8B
-- Qwen3-14B
-- Any model supported by vLLM or OpenAI-compatible APIs
-
 ## Supported Datasets
 
 | Dataset | Type | Subtasks |
