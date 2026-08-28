@@ -152,15 +152,6 @@ python run_evaluation.py \
 | MuSiQue | Context-Context (KRE-based) | - |
 | SQuAD | Context-Context (KRE-based) | - |
 
-## Key Results
-
-| Method | FaithEval (Unans.) | FaithEval (Incons.) | FaithEval (Counter.) | MuSiQue | SQuAD |
-|--------|--------------------|--------------------|---------------------|---------|-------|
-| DoT-Prompting (Llama-3.1-8B) | 58.2 | 82.3 | 64.9 | 80.4 | 82.8 |
-| DoT-Tuning (Llama-3.1-8B) | **64.7** | **86.9** | **69.2** | **83.6** | **87.9** |
-| DoT-Prompting (Qwen3-8B) | 79.4 | 87.0 | 76.3 | 72.8 | 81.9 |
-| DoT-Tuning (Qwen3-8B) | **82.8** | **89.1** | **79.2** | **75.6** | **85.3** |
-
 ## Project Structure
 
 ```
